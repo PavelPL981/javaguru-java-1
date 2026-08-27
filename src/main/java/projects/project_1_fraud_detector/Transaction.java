@@ -14,16 +14,8 @@ public class Transaction {
         return trader;
     }
 
-    public void setTrader(Trader trader) {
-        this.trader = trader;
-    }
-
     public int getAmount() {
         return amount;
-    }
-
-    public void setAmount(int amount) {
-        this.amount = amount;
     }
 
     @Override
