@@ -1,4 +1,4 @@
-package lesson_3.lecture3;
+package lesson_3.lessoncode3;
 
 public class BankAccountApp {
 
