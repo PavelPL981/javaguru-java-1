@@ -42,6 +42,4 @@ public class StudentMark {
             System.out.println("Error");
         }
     }
-
-
 }
