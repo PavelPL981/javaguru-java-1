@@ -2,7 +2,7 @@ package lesson_4.homework.level_1_intern;
 
 import java.util.Scanner;
 
-public class Task2Level2 {
+public class Task2Level1 {
 
     static void main() {
         Scanner scanner = new Scanner(System.in);
